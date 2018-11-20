@@ -1,0 +1,7 @@
+{
+    "name": "consumer-library-2",
+    "private": true,
+    "dependencies": {
+        "shared-library": "git+ssh://git@github.com:karol-f/shared-library.git#0.0.1"
+    }
+}
